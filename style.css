@@ -1,0 +1,14 @@
+td{
+    border: 2px solid gray;
+    margin: 2px;
+
+    height: 50px;
+    width: 50px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+    text-align: center;
+
+    background-color: #fcd1d3;
+}
